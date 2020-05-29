@@ -23,11 +23,11 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/listar-produtos",
+					"raw": "localhost:3333/listar-produtos",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3333",
 					"path": [
 						"listar-produtos"
 					]
@@ -53,11 +53,11 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/listar-produto/1",
+					"raw": "localhost:3333/listar-produto/1",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3333",
 					"path": [
 						"listar-produto",
 						"1"
@@ -81,11 +81,11 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/cadastrar-produto",
+					"raw": "localhost:3333/cadastrar-produto",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3333",
 					"path": [
 						"cadastrar-produto"
 					]
@@ -108,11 +108,11 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/atualizar-produto/3",
+					"raw": "localhost:3333/atualizar-produto/3",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3333",
 					"path": [
 						"atualizar-produto",
 						"3"
@@ -136,11 +136,11 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:3000/deletar-produto/2",
+					"raw": "localhost:3333/deletar-produto/2",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3333",
 					"path": [
 						"deletar-produto",
 						"2"
