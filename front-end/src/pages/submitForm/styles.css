@@ -25,10 +25,10 @@
 .form-submit a {
     height: 42px;
     border-radius: 5px;
-    border: 2px solid #da552f;
+    border: 2px solid #2a2353;
     background: none;
     margin-top: 10px;
-    color: #da552f;
+    color: #2a2353;
     font-weight: bold;
     font-size: 16px;
     text-decoration: none;
@@ -39,17 +39,17 @@
 }
 
 .form-submit a:hover{
-    background-color: #da552f;
+    background-color: #2a2353;
     color: #fff
 }
 
 .form-submit button {
     height: 42px;
     border-radius: 5px;
-    border: 2px solid #da552f;
+    border: 2px solid #2a2353;
     background: none;
     margin-top: 10px;
-    color: #da552f;
+    color: #2a2353;
     font-weight: bold;
     font-size: 16px;
     text-decoration: none;
