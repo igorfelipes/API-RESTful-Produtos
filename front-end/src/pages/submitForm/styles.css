@@ -1,0 +1,66 @@
+.form-submit {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.form-submit form {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: grid;
+}
+
+.form-submit input {
+    display: flex;
+    border: 1px solid #eee;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 16px
+
+}
+
+.form-submit a {
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid #da552f;
+    background: none;
+    margin-top: 10px;
+    color: #da552f;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s;
+}
+
+.form-submit a:hover{
+    background-color: #da552f;
+    color: #fff
+}
+
+.form-submit button {
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid #da552f;
+    background: none;
+    margin-top: 10px;
+    color: #da552f;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.form-submit button:hover {
+    background-color: #da552f;
+    color: #fff
+}
